@@ -10,7 +10,7 @@
         android:label="covidhotspot"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyD38rfuZPX8_nF4Ec1UPIVj3UL84ec8rAk"/>
+               android:value="Add API key"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
